@@ -1,0 +1,6 @@
+101|Artificial Intelligence: A Modern Approach|Stuart Russell|AI|1|3
+102|Clean Code|Robert C. Martin|Programming|1|5
+103|The Pragmatic Programmer|Andrew Hunt|Programming|1|4
+104|Database System Concepts|Silberschatz|Database|1|2
+105|Designing Data-Intensive Applications|Martin Kleppmann|Database|1|6
+106|Future Libraries and Smart Learning|Digital Society Lab|Innovation|1|1
